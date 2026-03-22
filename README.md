@@ -8,4 +8,4 @@ Combinatoria: Notas de clase extendidas y ejercicios resueltos.
 
 Cálculo Avanzado: Teoría y práctica separados en dos documentos. La teoría está mejor detallada que la práctica, la cual debido a su extensión no se hizo con demasiado detalle.
 
-Análisis Real: Una suerte de traducción propia del célebre libro de Kolmogorov y Formin en la cual se busca además completar las partes no explicadas de las demostraciones en el libro.
+Análisis Real: Una suerte de traducción propia del célebre libro de Kolmogorov y Formin en la cual se busca además completar las partes no explicadas de las demostraciones en el libro -en construcción-.
