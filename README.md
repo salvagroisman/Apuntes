@@ -9,3 +9,8 @@ La correctitud de los textos van variando según mi disponibilidad de tiempo. Ad
 -Análisis Real: Un proyecto de traducción y expansión del texto clásico de Kolmogorov & Fomin (Elements of the Theory of Functions and Functional Analysis). El objetivo es proporcionar demostraciones detalladas y completar pasos intermedios omitidos en el original -en progreso-.
 
 -Cálculo Avanzado: Compendio de teoría y práctica enfocado en la formalización de conceptos del análisis, separados en dos documentos -la práctica está no muy detallada debido a su extensión y el tiempo en el que se hizo, la teoría posee todo lo necesario para la materia más una sección extra de integración-
+
+-Álgebra II: Apunte de estructuras algebráicas con buena cantidad de ejercicios y ejemplos al final.
+
+-Aleatoridad de Möbius: Apunte de materia centrada en teoría analítica de números, escrito en compañia de mi amigo íntimo Valentín Sanz
+
